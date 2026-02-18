@@ -1,0 +1,5 @@
+x = int (input("sayı: "))
+# sonuc = (x>0) and (x<100)
+# print(f"sayı {x} : 0 ile 100 arasında:{sonuc}")
+sonuc = (x>0) and (x%2==0)
+print(f"sayı {x} : pozitif çift sayı:{sonuc}")

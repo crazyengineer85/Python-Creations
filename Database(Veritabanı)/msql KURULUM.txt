@@ -1,0 +1,3 @@
+My sql kurarken normal pc'ye = 1- server "exe" dosyası
+                               2- server'a bağlanmak için connector yaniWORKBENCH "exe dosyası indir
+			       3- https://pypi.org/project/mysql-connector/ indir

@@ -1,0 +1,3 @@
+yekta duran:100,100,80
+barış duran:100,100,100
+zeynep duran:100,100,100

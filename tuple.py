@@ -1,0 +1,1 @@
+# listenin aynısı yalnız bir elemana atama işlemi yapamazsın
